@@ -5,4 +5,5 @@ def oxford_comma(array)
     i += 1
   else
     array.join(", ")
+    i += 1
 end
